@@ -8,11 +8,15 @@ The Multilingual Sentiment Analyzer is a robust and versatile tool designed to d
 **Features**
 
 Multilingual Support: Analyze sentiment in various languages, including but not limited to English, Spanish, French, German, and Chinese.
+
 Flexible Input: Process single sentences, paragraphs, or lists of texts.
+
 Sentiment Scores: Provides not only the sentiment label (Positive, Negative, Neutral) but also confidence scores for each prediction.
 
 **Technologies Used**
 
 Python: The primary programming language for development.
+
 TensorFlow: The underlying deep learning frameworks used by the models.
+
 NLTK (Natural Language Toolkit):For text processing tasks.
